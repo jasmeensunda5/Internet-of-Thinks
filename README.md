@@ -1,1 +1,1 @@
-# Internet-of-Thinks
+# Internet-of-Things
